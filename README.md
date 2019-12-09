@@ -16,13 +16,13 @@ ___
 
 ## Getting Started / Installation
 
-View this [PRESENTATION.md](PRESENTATION.md) for a summary of findings
+View this [PRESENTATION.md](PRESENTATION.md) for a summary of findings or the [PowerPoint](TTC_Delays_PowerPoint.pptx)
 
 Or
 
 Download the compressed [GitHub Repository](https://github.com/cebulada/TTC_Delays.git)
 
-Then view the [PRESENTATION.md](PRESENTATION.md) file
+Then view the [PRESENTATION.md](PRESENTATION.md) file or the [PowerPoint](TTC_Delays_PowerPoint.pptx)
 
 Or
 
@@ -30,7 +30,7 @@ Or
 $ git clone https://github.com/cebulada/TTC_Delays.git
 ```
 
-Then view the [PRESENTATION.md](PRESENTATION.md) file
+Then view the [PRESENTATION.md](PRESENTATION.md) file or the [PowerPoint](TTC_Delays_PowerPoint.pptx)
 
 ___
 
